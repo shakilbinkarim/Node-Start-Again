@@ -1,6 +1,6 @@
 /**
  * All mathematics operation operate as expected
- * Integers and Doubles are same somewhats
+ * Integers and Doubles are same somewhat
  *  */
 
 //Challenge

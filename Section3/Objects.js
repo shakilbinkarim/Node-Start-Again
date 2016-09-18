@@ -48,5 +48,5 @@ console.log('Trying to print a deleted property:\t' + mage.magicType + '\n');
 /**
  * Printing out an object
  */
-console.log('Printing out the object:\t' + mage); // Apparently this line doesn't work
+console.log('Printing out the object:\t' + mage); // Apparently this line doesn't work -- can't concat objects with other strings
 console.log(mage);
